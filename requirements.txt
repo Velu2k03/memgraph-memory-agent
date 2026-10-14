@@ -1,0 +1,6 @@
+# Runtime: FalkorDB client only. LLM providers talk REST via stdlib urllib.
+falkordb>=1.0
+
+# Dev/test
+pytest>=8.0
+ruff>=0.4
