@@ -9,6 +9,10 @@ what it genuinely stored. No vector-DB black box, no hallucinated "memory".
 Built for **Graph Hacks** (FalkorDB is the heart of the project, and every line
 was written during the hackathon).
 
+Built with AI coding assistance (Muse), disclosed per the hackathon rules.
+The author understands the full codebase: the graph data model, the Cypher
+queries, and the retrieval architecture.
+
 ```
 you:       Velu is an AI Automation Engineer living in Santa Rosa.
 memgraph:  stored: Velu --is--> AI Automation Engineer
